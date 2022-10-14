@@ -45,7 +45,7 @@ const AnimationTest = () => {
           padding: 4,
         }}
       >
-        <Typography variant='h3'>City</Typography>
+        <Typography variant='h3'>Cash register</Typography>
         <Typography>
           Loops indefinetely. Animation size is not optimised.
         </Typography>
